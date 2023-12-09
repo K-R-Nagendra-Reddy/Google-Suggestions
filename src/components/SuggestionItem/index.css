@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.description {
+  color: #000000;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

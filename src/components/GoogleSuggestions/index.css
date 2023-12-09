@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px;
+}
+.google {
+  height: 10vh;
+  width: 40vw;
+}
+.card-container {
+  border: solid #000000 1px;
+  min-height: 30vh;
+  box-shadow: 3px #bfbfbf;
+
+  min-height: 25vh;
+  min-width: 40vw;
+  border-radius: 10px;
+}
+.inputElement {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 39vw;
+  flex-shrink: 1;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+.list-of-search {
+  display: flex;
+  flex-direction: column;
+}
